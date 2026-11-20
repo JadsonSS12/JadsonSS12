@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**JadsonSS12/JadsonSS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to my profile!
 
-Here are some ideas to get you started:
+```java
+package GitHub;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+public class Welcome {
+    public static void main(String[] args) {
+
+        String name = "Jadson de Souza";
+        int age = 25;
+        String studying = "Computer Science";
+        String dev = "Full-Stack";
+
+        System.out.println("Welcome to my profile!!!");
+    }
+}
+```
+
+## 📚 SKILLS 📚
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,postgres,mongodb,docker,aws&theme=dark"/>
+</div>
+
+## 📫 CONTACTS 📫
+
+<div>
+  <a href="www.linkedin.com/in/jadson-souza-5818a621b">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:jadson.w123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
+</picture>
